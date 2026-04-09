@@ -1,7 +1,7 @@
 hi, i'm tameka 
+*founder · operator · making it public*
 
-founder · operator · making it public
-_____________________________________
+_______________________________________
 
 who i am
 operator. analyst. roots in systems.
@@ -11,10 +11,10 @@ small projects across healthcare, operations, and human services.
 learning fast. putting the work out there.
 
 tools i use
-HTML/CSS · JavaScript · React · Power BI · SQL · VS Code · Figma · Claude · Git
+`HTML/CSS` `JavaScript` `React` `Power BI` `SQL` `VS Code` `Figma` `Claude` `Git`
 
 currently learning
 Azure
 
 reach me
-t.wills.office@gmail.com  ·  linkedin
+t.wills.office@gmail.com · linkedin.com/in/twillsoffice
