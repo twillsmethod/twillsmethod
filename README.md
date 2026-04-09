@@ -1,4 +1,5 @@
 hi, i'm tameka 
+
 *founder · operator · making it public*
 
 _______________________________________
