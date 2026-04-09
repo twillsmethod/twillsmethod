@@ -1,16 +1,19 @@
-## Hi there 👋
+hi, i'm tameka 
+founder · operator · making it public
+_____________________________________
 
-<!--
-**twillsmethod/twillsmethod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+who i am
+operator. analyst. roots in systems.
 
-Here are some ideas to get you started:
+what i'm working on
+small projects across healthcare, operations, and human services.
+learning fast. putting the work out there.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+tools i use
+HTML/CSS · JavaScript · React · Power BI · SQL · VS Code · Figma · Claude · Git
+
+currently learning
+Azure
+
+reach me
+t.wills.office@gmail.com  ·  linkedin
