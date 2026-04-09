@@ -5,7 +5,6 @@ hi, i'm tameka
 _______________________________________
 
 who i am
-
 operator. analyst. roots in systems.
 
 what i'm working on
