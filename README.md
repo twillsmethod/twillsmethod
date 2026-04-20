@@ -1,4 +1,4 @@
-hi, i'm tameka 
+Hi, I'm Tameka 
 
 *founder · operator · making it public*
 
